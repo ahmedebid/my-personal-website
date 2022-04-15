@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Projects
+permalink: /projects/index.html
 ---
 # Eavesdropper
 
